@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="https://avatars.githubusercontent.com/u/77168280?v=4" alt="Banner topo" />
+  <img width="20%" src="https://avatars.githubusercontent.com/u/77168280?v=4" alt="Banner topo" />
 </div>
 
 <br><br>
