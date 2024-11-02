@@ -17,13 +17,10 @@
 <br>
 
 <div align="center">
-  <a href="https://instagram.com/seuusuario" target="_blank">
+  <a href="https://instagram.com/gabriel.front" target="_blank">
     <img align="center" height="84" width="84" src="https://github.com/seuusuario/seurepo/assets/instagram-icon.png" alt="Instagram">
   </a>
-  <a href="https://www.youtube.com/channel/seucanal" target="_blank">
-    <img align="center" height="80" width="80" src="https://github.com/seuusuario/seurepo/assets/youtube-icon.png" alt="YouTube">
-  </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:gb979960@gmail.com">
     <img align="center" height="80" width="80" src="https://github.com/seuusuario/seurepo/assets/email-icon.png" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
